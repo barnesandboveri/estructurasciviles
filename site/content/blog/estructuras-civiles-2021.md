@@ -1,5 +1,5 @@
 +++
-categories = ["Innovación", "Información"]
+categories = ["Innovación"]
 date = 2021-07-15T22:00:00Z
 description = "Todos sabemos que el mundo de la construcción está en constante evolución buscando nuevos métodos en los que la digitalización y materiales de nueva generación se abren paso hacia el futuro de la arquitectura. Nosotros en Estructuras Civiles no íbamos a ser menos.\n"
 galeria = []
