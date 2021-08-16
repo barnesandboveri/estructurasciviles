@@ -28,4 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- site/content/proyectos/north-home.md
 - site/content/proyectos/pantalanes-nauticos-porto-do-xufre.md
