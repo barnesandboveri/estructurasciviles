@@ -2,6 +2,7 @@
 categories = ["Innovación"]
 date = 2021-07-15T22:00:00Z
 description = "Todos sabemos que el mundo de la construcción está en constante evolución buscando nuevos métodos en los que la digitalización y materiales de nueva generación se abren paso hacia el futuro de la arquitectura. Nosotros en Estructuras Civiles no íbamos a ser menos.\n"
+draft = true
 galeria = []
 image = "/v1626453804/Screenshot_2021-07-16_at_18-41-33_Presentaci%C3%B3n_de_PowerPoint_-_210715_Book_Ingenier%C3%ADa_v5_pdf_fg02zh.png"
 tags = ["Medio Ambiente", "Construcción", "Eficiencia", "Energético", "Viviendas", "Innovación", "Ingeniería 4.0", "Entorno 3D", "Eco friendly", "Paneles solares", "Dron", "BIM", "Gestión de Proyectos", "Técnicas laser"]
