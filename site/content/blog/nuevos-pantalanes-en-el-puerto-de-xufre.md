@@ -1,7 +1,8 @@
 +++
 categories = ["Pantalanes"]
-date = "2019-08-14T00:00:00+02:00"
+date = 2019-08-13T22:00:00Z
 description = "Estructuras Civiles ha dado por finalizada la fabricación e Instalación de los Pantalanes flotantes en Xufre.\n"
+draft = true
 galeria = ["/v1566991504/IMG-20190828-WA0002_zhbtyz.jpg", "/v1566991465/IMG-20190828-WA0003_j3s5xr.jpg"]
 image = "/v1566991465/IMG-20190828-WA0003_j3s5xr.jpg"
 tags = ["flota mejillonera", "puerto"]
