@@ -1,24 +1,11 @@
 +++
-categories = ["Consejos"]
-date = 2020-01-13T23:00:00Z
-description = "En Estructuras civiles tenemos un gran compromiso con el medio ambiente y la sostenibilidad por eso todas nuestras viviendas cumplen con las mayores exigencias energéticas.\n"
+categories = ["Innovación"]
+date = 2021-11-16T23:00:00Z
+description = "Management Operativo 3.0 SL ha sido elegida beneficiaria del programa DeseñaPeme 2021, por el que se adjudican las ayudas al diseño, para la mejora de la capacidad de innovación y sustentabilidad de las empresas en Galicia, a través del impulso de la gestión del diseño estratégico de productos, servicios, experiencias y marcas e identidades corporativas, enmarcados en prioridades estratégicas de la RIS3."
 draft = true
-galeria = []
-image = "/v1584553798/POST_FACEBOOK_ARQUAL.max-750x422_bjd7ci.png"
-tags = ["\"Las Rozas\"", "Boadilla", "Casas", "Hogares", "Madrid", "Pozuelo", "Unifamiliares", "Viviendas"]
-title = "Deseñapeme 2021"
+galeria = ["/v1637915671/Logo_Xunta_marca-positivo_ohsijm.svg", "/v1637916678/Xacobeo-Galicia21-22-color_dhuebv.jpg"]
+image = "/v1637916612/DP-azul_giiycy.png"
+tags = ["Xunta de Galicia", "GAIN", "DeseñaPeme"]
+title = "DeseñaPeme 2021"
 
 +++
-Creemos en la sostenibilidad, por ello nuestras viviendas están creadas y diseñadas con un profundo respeto por el medio ambiente y la calidad de vida de las personas que viven en ellas.
-
-Creamos hogares puros, limpios y energéticamente eficientes logrando un bajo consumo energético y un gran aprovechamiento de las fuentes renovables.
-
-¿Cómo lo logramos?, Te lo contamos a continuación:
-
-* Buscamos la orientación más adecuada para el máximo aprovechamiento de la energía solar.
-* Utilizamos los mejores aislantes térmicos.
-* Aerotermia y paneles solares.
-* Instalamos carpintería metálica premium con rotura de puente térmico
-* Elegimos materiales saludables, lo más naturales posible.
-
-El uso de materiales premium, naturales y respetuosos con el medio ambiente junto con un uso inteligente y eficiente de las instalaciones hacen de nuestras viviendas un hogar inigualable.
